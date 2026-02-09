@@ -65,7 +65,7 @@ The dashboard focuses on **Y04 and Y21d phone models** and highlights key stock 
 
 #### Tools & Technologies Used
 
-  - **Data Visualization:** Power BI 
+  - **Data Visualization:** Excel 
   - **Data Cleaning & Preparation:** Excel 
   - **Dashboard Design:** Interactive charts & KPIs
 
@@ -80,5 +80,6 @@ The dashboard focuses on **Y04 and Y21d phone models** and highlights key stock 
 
 ---
 
+#### DASHBOARD SCREENSHOT
 
-
+<img width="1892" height="870" alt="Screenshot 2026-01-14 150725" src="https://github.com/user-attachments/assets/0b0c4c27-b77b-47c4-a887-9a73adac8d15" />
